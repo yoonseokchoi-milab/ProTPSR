@@ -1,0 +1,16 @@
+2024-09-11 22:13:46 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 6 --tb_display_size 3 --tb_comment _ProgNet_2024_08_29_ixi_original_munit_wo_dwt_1ch_input_norm_0to1_l1_percep_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
+2024-09-11 22:38:43 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 6 --tb_display_size 3 --tb_comment _ProgNet_2024_08_30_ixi_original_munit_wo_dwt_1ch_input_PatchGAN_norm_0to1_l1_percep_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
+2024-09-11 22:41:30 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 4 --tb_display_size 3 --tb_comment _ProgNet_2024_08_31_ixi_original_munit_w_dwt_1ch_input_PatchGAN_norm_0to1_l1_ssim_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
+2024-09-11 23:03:24 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 4 --tb_display_size 3 --tb_comment _ProgNet_2024_08_29_ixi_ContentNet_w_dwt_1ch_input_norm_0to1_l1_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
+2024-09-11 23:03:46 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 6 --tb_display_size 3 --tb_comment _ProgNet_2024_08_28_ixi_ContentNet_w_dwt_1ch_input_norm_0to1_l1_ssim_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
+2024-09-11 23:10:53 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 6 --tb_display_size 3 --tb_comment _ProgNet_2024_09_02_ixi_ContentNet_wo_dwt_total_1ch_input_norm_0to1_l1_ssim_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
+2024-09-11 23:11:01 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 4 --tb_display_size 3 --tb_comment _ProgNet_2024_08_28_ixi_ContentNet_w_dwt_1ch_input_norm_0to1_l1_ssim_percep_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
+2024-09-12 11:53:47 : /home/milab/anaconda3/envs/yoonseok/bin/python /SSD4_8TB/CYS/02.Super-resolution_Missing_data_imputation/04.ProTPSR/test_h5_b_ContentNet.py -e 100 -b 5 --nb_train_imgs 4000 --nb_test_imgs 1000 -gpu 7 --tb_display_size 3 --tb_comment _ProgNet_2024_09_03_ixi_ContentNet_b_wo_dwt_total_1ch_input_norm_0to1_l1_ssim_train_n_test_4000_10_b_5_e_100 --train_dataset False
+
